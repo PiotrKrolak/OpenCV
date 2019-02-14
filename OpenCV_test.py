@@ -11,6 +11,7 @@ import matplotlib as plt
 
 photo = 'pcb_ds.jpg'
 film = 'red_panda_snow.mp4'
+pcb_ds = 'picture\\pcb_ds.jpg'
 
 ###################
 # definicje funkcji
@@ -87,8 +88,9 @@ def video(move):
 ###################
 
 # picture(photo, False)
+# picture(pcb_ds)
 # camera()
-video(film)
+# video(film)
 
 
 #######
